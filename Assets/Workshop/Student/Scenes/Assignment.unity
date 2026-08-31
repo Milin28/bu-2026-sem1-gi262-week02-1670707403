@@ -165,8 +165,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Assignment.Assignment
   as01_items:
   - {fileID: 6401792816642385161, guid: 8daba404af8ca2b449f79f2ef2325e42, type: 3}
+  - {fileID: 620319011660098408, guid: 9c5e6105aa1a9f84788696dfeae00aa7, type: 3}
   - {fileID: 8352787512774635016, guid: 6d6ca20a8028f4948abbd0a9460d250f, type: 3}
-  - {fileID: 8100579626664158719, guid: c1fd18bc07765e94687daeaba77a29f5, type: 3}
   as02_floorTiles:
   - {fileID: 8981274605333006497, guid: 93d0b3edf258c194ca8e4bdaedb3507d, type: 3}
   - {fileID: 5525326628935868067, guid: 42ae0a1037f220c46be78186c07b001e, type: 3}
@@ -178,9 +178,9 @@ MonoBehaviour:
   as03_wall: {fileID: 5291166318002269242, guid: 413c1aa8e8dffdd448102fbcf99aaf6d, type: 3}
   as03_columns: 5
   as03_rows: 5
-  as04_enemyHP: 0a000000140000001e000000
-  as04_damage: 5
-  as04_target: 2
+  as04_enemyHP: 050000000a0000000f000000
+  as04_damage: 10
+  as04_target: 1
   as05_n: 3
   as06_ironManSuitNames:
   - Mark I
